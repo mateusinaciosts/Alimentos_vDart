@@ -1,1 +1,1 @@
-# Alimentos
+A simple command-line application.
